@@ -1,0 +1,39 @@
+Save
+Display: 12 [Mem: 12]
+Save
+Display: 8 [Mem: 8]
+Multiply
+Display: 64 [Mem: 8]
+Save
+Display: 64 [Mem: 64]
+Undo
+Display: 64 [Mem: 8]
+Undo
+Display: 8 [Mem: 8]
+Undo
+Display: 8 [Mem: 12]
+Undo
+Display: 12 [Mem: 12]
+Undo
+Display: 12
+Undo
+Display: 1
+Undo
+Display: 0
+Undo
+Redo
+Display: 1
+Redo
+Display: 12
+Redo
+Display: 12 [Mem: 12]
+Redo
+Display: 8 [Mem: 12]
+Redo
+Display: 8 [Mem: 8]
+Redo
+Display: 64 [Mem: 8]
+Redo
+Display: 64 [Mem: 64]
+Redo
+Final result: 64

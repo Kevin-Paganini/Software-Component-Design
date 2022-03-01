@@ -1,0 +1,59 @@
+Save
+Display: 345 [Mem: 345]
+Multiply
+Display: 119025 [Mem: 345]
+Subtract
+Display: 119023 [Mem: 345]
+Recall
+Display: 345 [Mem: 345]
+Add
+Display: 119041 [Mem: 345]
+Undo
+Display: 18 [Mem: 345]
+Undo
+Display: 1 [Mem: 345]
+Undo
+Display: 345 [Mem: 345]
+Undo
+Display: 119023 [Mem: 345]
+Undo
+Display: 2 [Mem: 345]
+Undo
+Display: 119025 [Mem: 345]
+Undo
+Display: 345 [Mem: 345]
+Undo
+Display: 345
+Undo
+Display: 34
+Undo
+Display: 3
+Undo
+Display: 0
+Undo
+Undo
+Redo
+Display: 3
+Redo
+Display: 34
+Redo
+Display: 345
+Redo
+Display: 345 [Mem: 345]
+Redo
+Display: 119025 [Mem: 345]
+Redo
+Display: 2 [Mem: 345]
+Redo
+Display: 119023 [Mem: 345]
+Redo
+Display: 345 [Mem: 345]
+Redo
+Display: 1 [Mem: 345]
+Redo
+Display: 18 [Mem: 345]
+Redo
+Display: 119041 [Mem: 345]
+Redo
+Redo
+Final result: 119041

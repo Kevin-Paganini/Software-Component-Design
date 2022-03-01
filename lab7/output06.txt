@@ -1,0 +1,50 @@
+Save
+Display: 9 [Mem: 9]
+Multiply
+Display: 207 [Mem: 9]
+Save
+Display: 207 [Mem: 207]
+Recall
+Display: 207 [Mem: 207]
+Multiply
+Display: 42849 [Mem: 207]
+Save
+Display: 42849 [Mem: 42849]
+Recall
+Display: 42849 [Mem: 42849]
+Multiply
+Display: 1836036801 [Mem: 42849]
+Undo
+Display: 42849 [Mem: 42849]
+Undo
+Display: 42849 [Mem: 42849]
+Undo
+Display: 42849 [Mem: 207]
+Multiply
+Display: 2433351861 [Mem: 207]
+Undo
+Display: 56789 [Mem: 207]
+Undo
+Display: 5678 [Mem: 207]
+Undo
+Display: 567 [Mem: 207]
+Multiply
+Display: 242996679 [Mem: 207]
+Undo
+Display: 5671 [Mem: 207]
+Undo
+Display: 567 [Mem: 207]
+Undo
+Display: 56 [Mem: 207]
+Undo
+Display: 5 [Mem: 207]
+Undo
+Display: 42849 [Mem: 207]
+Redo
+Display: 5 [Mem: 207]
+Redo
+Display: 56 [Mem: 207]
+Multiply
+Display: 24381081 [Mem: 207]
+Quit
+Final result: 24381081

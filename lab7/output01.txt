@@ -1,0 +1,19 @@
+Display: 5
+Multiply
+Display: 15
+Save
+Display: 15 [Mem: 15]
+Undo
+Display: 15
+Undo
+Display: 3
+Undo
+Display: 5
+Redo
+Display: 3
+Redo
+Display: 15
+Redo
+Display: 15 [Mem: 15]
+Quit
+Final result: 15

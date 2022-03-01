@@ -1,0 +1,34 @@
+Undo
+Display: 1234
+Redo
+Display: 12345
+Display: 1234567
+Undo
+Display: 1234567
+Undo
+Display: 123456
+Redo
+Display: 1234567
+Redo
+Display: 1234567
+Multiply
+Display: 122222133
+Undo
+Display: 99
+Add
+Display: 1234666
+Undo
+Display: 99
+Subtract
+Display: 1234468
+Undo
+Display: 99
+Undo
+Display: 9
+Redo
+Display: 99
+Redo
+Display: 1234468
+Redo
+Quit
+Final result: 1234468
